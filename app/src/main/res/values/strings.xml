@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WorldPayTask</string>
+    <string name="cardnumber">Card Number</string>
+    <string name="name">Name</string>
+    <string name="expiry_date">Exp. Date</string>
+    <string name="cvc">CVC</string>
+    <string name="amount">Amount</string>
+    <string name="review_payment">Review Payment</string>
+    <string name="cancel">Cancel Payment</string>
+    <string name="approve">Approve Payment</string>
+    <string name="settle_payment">Payment is settled.</string>
+    <string name="back">Back</string>
+
+
+</resources>
